@@ -1,6 +1,6 @@
-## 🍎 Hello! 🤖
+## 🖥️ Hello! ⌨️🖱️
 
-I'm a (Dual Native) Mobile Developer with an interest in (cloud) systems infrastructure, militairy-IT, strength training, and an avid history buff.
+I'm an IT enthusiast with an interest in (cloud) systems infrastructure, systems engineering and strength training. I'm also an avid history buff.
 
 I live by the principles of the [strenuous life doctrine](https://ranchlands.com/blogs/journal/teddy-roosevelt-s-strenuous-life-doctrine?srsltid=AfmBOoqs7mNrog7EChMCLJmcR7_Q-F7-0yajWvP0ufmrJEsMXzVYj525).
 
