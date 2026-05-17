@@ -1,12 +1,6 @@
 ## 🖥️ Hello! ⌨️🖱️
 
-I'm an IT enthusiast with an interest in (cloud) systems infrastructure, systems engineering and strength training. I'm also an avid history buff.
-
-I live by the principles of the [strenuous life doctrine](https://ranchlands.com/blogs/journal/teddy-roosevelt-s-strenuous-life-doctrine?srsltid=AfmBOoqs7mNrog7EChMCLJmcR7_Q-F7-0yajWvP0ufmrJEsMXzVYj525).
-
-
-
-![Spierings_wapenschild_8K_2](https://github.com/user-attachments/assets/4f976284-d3f6-4c1a-8ae4-f207c3abda3a)
+IT-enthousiast, formerly a software developer for the HEMA-apps and functional analyst for DHL Benelux
 <!--
 **VidalSpierings/VidalSpierings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
